@@ -36,9 +36,6 @@ This project aims to demonstrate the use of **Power BI** for transforming raw sa
 - **Microsoft Power BI**: For data transformation, analysis, and interactive visualization.
 - **DAX Queries**: To create complex calculations and enhance the analytical capabilities of the report.
 
-### 🖼️ Visual Preview
-![Sales Growth Visualization](images/sales_growth.png)
-
 ### 🔗 Additional Resources
 - [Power BI Documentation](https://docs.microsoft.com/en-us/power-bi/)
 - [DAX Reference Guide](https://docs.microsoft.com/en-us/dax/)
